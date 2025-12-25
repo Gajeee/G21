@@ -1,14 +1,25 @@
-# G21 | Minimal Blackjack  
-**Developed by Gajee & Ghub Studio**  
 
-A premium, minimalist Blackjack experience for single-player elegance. No noise, no ads—just the game.
+
+<h1 align="center" style="color: orange;">G21 | Minimal Blackjack</h1>
+<p align="center" style="color: #ff7f00;">**Developed by Gajee & Ghub Studio**</p>
+
+<p align="center">
+  A premium, minimalist Blackjack experience for single-player elegance. No noise, no ads—just the game.
+</p>
 
 ---
 
 ## 📸 Screenshots
 
-| ![UI1](images/ui1.jpg) | ![UI2](images/ui2.jpg) | ![UI3](images/ui3.jpg) |
-|------------------------|------------------------|------------------------|
+<p align="center">
+  <img src="images/ui1.jpg" width="60%" />
+</p>
+<p align="center">
+  <img src="images/ui2.jpg" width="60%" />
+</p>
+<p align="center">
+  <img src="images/ui3.jpg" width="60%" />
+</p>
 
 ---
 
@@ -44,8 +55,7 @@ A premium, minimalist Blackjack experience for single-player elegance. No noise,
    npm install
    npm start
 Access the game at http://localhost:3000.
-🃏 Game Rules
-Objective: Get closer to 21 than the dealer without going over.
-Blackjack: Ace + 10-value card pays 3:2.
-Dealer: Stands on 17.
-Initial Chips: $1,000.
+<p align="center">
+💡 Credits
+<p align="center" style="color: #ff7f00;"> G21 – Created with luxury, clarity, and minimalist aesthetics by Gajee & Ghub Studio.
+</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=800&color=E0AAFF&center=true&vCenter=true&width=680&lines=Enjoy+the+game+experience;Minimal+design+for+a+premium+feel;Play+Blackjack+now!" alt="typing" /> </p> 
