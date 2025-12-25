@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.gajeeghub.g21",
+  "appName": "G21 Minimal",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

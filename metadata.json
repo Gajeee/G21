@@ -1,0 +1,9 @@
+
+{
+  "name": "G21 - Premium Blackjack",
+  "description": "A minimalist, high-end Blackjack experience by Gajee & Ghub Studio. Features deep black aesthetics, fluid animations, and a Gemini-powered AI Concierge for strategy and voice commands.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

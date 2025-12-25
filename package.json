@@ -1,0 +1,20 @@
+
+{
+  "name": "g21-minimal",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx vite --port 3000 --open",
+    "build": "npx vite build",
+    "app:init": "npx cap init G21 com.gajeeghub.g21 --web-dir dist",
+    "app:add": "npx cap add android",
+    "app:sync": "npm run build && npx cap copy android && npx cap open android"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0"
+  }
+}
