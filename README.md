@@ -69,5 +69,5 @@ npm run app:sync
 G21 – Created with luxury, clarity, and minimalist aesthetics by Gajee & Ghub Studio.
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=800&color=E0AAFF&center=true&vCenter=true&width=680&lines=Enjoy+the+game+experience;Minimal+design+for+a+premium+feel;Play+Blackjack+now!" alt="typing" /> </p>
 💬 Contact
-For any inquiries or support, reach out to Gajee & Ghub Studio at contact@gajeeghub.com.
+For any inquiries or support, reach out to Gajee & Ghub Studio at gajenes10@gmail.com
 
